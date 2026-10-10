@@ -1,0 +1,14 @@
+{
+  "name": "pm-tracker",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "bun src/index.ts"
+  },
+  "dependencies": {
+    "discord.js": "^14.24.0"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.4.2"
+  }
+}
